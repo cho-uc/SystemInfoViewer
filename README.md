@@ -9,11 +9,10 @@ C++ program with GUI (WTL) that collects and displays various system information
 * [List of of all installed programs](#program)
 * [List of all installed services](#service)
 
+![Main Window](.images/mainwindow.png)
 
-![Main Window](./images/mainwindow.png)
+![Installed Programs](.images/installedprograms.png)
 
-![Installed Programs](./images/installedprograms.png)
+![Processes](.images/processes.png)
 
-![Processes](./images/processes.png)
-
-![Services](./images/services.png)
+![Services](.images/services.png)
