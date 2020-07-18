@@ -9,6 +9,10 @@ C++ program with GUI (WTL) that collects and displays various system information
 * [List of of all installed programs](#program)
 * [List of all installed services](#service)
 
+1. Create Visual Studio project using all source files in SystemInfo folder
+2. Add dependencies as include directory
+3. Compile and run
+
 ![Main Window](.images/mainwindow.png)
 
 ![Installed Programs](.images/installedprograms.png)
